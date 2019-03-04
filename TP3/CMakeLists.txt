@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+FIND_PACKAGE(OpenCV REQUIRED)
+
+PROJECT(TP3)
+
+ADD_EXECUTABLE(epipolaires epi.cpp image.cpp image.h)
+TARGET_LINK_LIBRARIES(epipolaires ${OpenCV_LIBS})
+

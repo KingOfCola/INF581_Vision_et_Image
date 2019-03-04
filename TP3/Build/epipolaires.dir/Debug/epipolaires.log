@@ -1,0 +1,6 @@
+﻿  epi.cpp
+C:\Users\Urvan\Documents\X\3A\INF\TP3\epi.cpp(67): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\TP3\epi.cpp(75): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\TP3\epi.cpp(102): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\TP3\epi.cpp(110): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  epipolaires.vcxproj -> C:\Users\Urvan\Documents\X\3A\INF\TP3\Build\Debug\epipolaires.exe

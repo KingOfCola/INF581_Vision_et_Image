@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Urvan\Documents\X\3A\INF\PROJET\main.cpp(21): warning C4101: 'c' : variable locale non référencée
+C:\Users\Urvan\Documents\X\3A\INF\PROJET\main.cpp(225): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\PROJET\main.cpp(272): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\PROJET\main.cpp(304): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\Urvan\Documents\X\3A\INF\PROJET\main.cpp(322): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  main.vcxproj -> C:\Users\Urvan\Documents\X\3A\INF\PROJET\Build\Debug\main.exe
